@@ -5,6 +5,7 @@
 
 - link:
     ~/.zshrc:
+      force: true
     ~/.gitignore:
 
 - shell:
