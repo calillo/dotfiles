@@ -4,6 +4,7 @@
       relink: true
 
 - link:
+    ~/.zshrc:
     ~/.gitignore:
 
 - shell:
